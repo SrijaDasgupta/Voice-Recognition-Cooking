@@ -26,20 +26,15 @@ A desktop voice-enabled cooking assistant built with Electron.js for macOS. User
 
 ## 🧑‍🍳 Getting Started (macOS)
 
-### 1. Clone the repository or unzip the folder
 
-```bash
-git clone https://github.com/your-username/voice-cooking-assistant.git
-cd voice-cooking-assistant
-```
 
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Run the app
+### 2. Run the app
 
 ```bash
 npm start
