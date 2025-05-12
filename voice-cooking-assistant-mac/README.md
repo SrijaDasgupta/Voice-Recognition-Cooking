@@ -19,7 +19,7 @@ A desktop voice-enabled cooking assistant built with Electron.js for macOS. User
 - Electron.js
 - HTML/CSS/JavaScript
 - Web Speech API
-- (Optional) Spoonacular API for recipes
+- Spoonacular API for recipes
 
 ---
 
@@ -92,12 +92,6 @@ To host a web version:
 
 ---
 
-## 📄 License
 
-MIT License
 
----
 
-## 👩‍💻 Author
-
-Made with ❤️ by [Your Name]
