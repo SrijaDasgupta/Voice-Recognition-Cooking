@@ -23,11 +23,6 @@ A desktop voice-enabled cooking assistant built with Electron.js for macOS. User
 
 ---
 
-## 📸 Preview
-
-![Mic Icon](assets/mic-icon.png)
-
----
 
 ## 🧑‍🍳 Getting Started (macOS)
 
